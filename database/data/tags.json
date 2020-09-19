@@ -1,0 +1,307 @@
+[
+    {
+        "id": "1",
+        "name": "3D Druck"
+    },
+    {
+        "id": "2",
+        "name": "3D Modellierung"
+    },
+    {
+        "id": "3",
+        "name": "3D Scan"
+    },
+    {
+        "id": "4",
+        "name": "Adobe Illustrator"
+    },
+    {
+        "id": "5",
+        "name": "Adobe InDesign"
+    },
+    {
+        "id": "6",
+        "name": "Adobe Photoshop"
+    },
+    {
+        "id": "7",
+        "name": "Agiles Projektmanagement"
+    },
+    {
+        "id": "8",
+        "name": "Asiatische Küche"
+    },
+    {
+        "id": "9",
+        "name": "Backend-Entwicklung"
+    },
+    {
+        "id": "10",
+        "name": "Basteln"
+    },
+    {
+        "id": "11",
+        "name": "Buchführung"
+    },
+    {
+        "id": "12",
+        "name": "Business English"
+    },
+    {
+        "id": "13",
+        "name": "CAD"
+    },
+    {
+        "id": "14",
+        "name": "Controlling"
+    },
+    {
+        "id": "15",
+        "name": "Data Analysis"
+    },
+    {
+        "id": "16",
+        "name": "Datenbankdesign"
+    },
+    {
+        "id": "17",
+        "name": "Design"
+    },
+    {
+        "id": "18",
+        "name": "English"
+    },
+    {
+        "id": "19",
+        "name": "Ernährung"
+    },
+    {
+        "id": "20",
+        "name": "Ethik"
+    },
+    {
+        "id": "21",
+        "name": "Film"
+    },
+    {
+        "id": "22",
+        "name": "Fotografie"
+    },
+    {
+        "id": "23",
+        "name": "Frontend-Entwicklung"
+    },
+    {
+        "id": "24",
+        "name": "Fundraising"
+    },
+    {
+        "id": "25",
+        "name": "Fusion 360"
+    },
+    {
+        "id": "26",
+        "name": "Gaming"
+    },
+    {
+        "id": "27",
+        "name": "Gesellschaft"
+    },
+    {
+        "id": "28",
+        "name": "Gesundheit"
+    },
+    {
+        "id": "29",
+        "name": "Gärtnern"
+    },
+    {
+        "id": "30",
+        "name": "Human Ressources"
+    },
+    {
+        "id": "31",
+        "name": "Management"
+    },
+    {
+        "id": "32",
+        "name": "Kampfsport"
+    },
+    {
+        "id": "33",
+        "name": "Koordination"
+    },
+    {
+        "id": "34",
+        "name": "Kunst"
+    },
+    {
+        "id": "35",
+        "name": "Künstliche Intelligenz"
+    },
+    {
+        "id": "36",
+        "name": "Lasercutting"
+    },
+    {
+        "id": "37",
+        "name": "Lasergravur"
+    },
+    {
+        "id": "38",
+        "name": "Linux"
+    },
+    {
+        "id": "39",
+        "name": "Makroökonomie"
+    },
+    {
+        "id": "40",
+        "name": "Marketing"
+    },
+    {
+        "id": "41",
+        "name": "Materialkunde (Baustoffbereich)"
+    },
+    {
+        "id": "42",
+        "name": "Meditation"
+    },
+    {
+        "id": "43",
+        "name": "Mikroökonomie"
+    },
+    {
+        "id": "44",
+        "name": "Modellbau"
+    },
+    {
+        "id": "45",
+        "name": "Musik"
+    },
+    {
+        "id": "46",
+        "name": "Nachhaltigkeit"
+    },
+    {
+        "id": "47",
+        "name": "Networking"
+    },
+    {
+        "id": "48",
+        "name": "Neurologie"
+    },
+    {
+        "id": "49",
+        "name": "Organisation"
+    },
+    {
+        "id": "50",
+        "name": "Outdoor"
+    },
+    {
+        "id": "51",
+        "name": "Platinenbestückung"
+    },
+    {
+        "id": "52",
+        "name": "Plotten auf sämtlichen HTWG Druckern"
+    },
+    {
+        "id": "53",
+        "name": "Politik"
+    },
+    {
+        "id": "54",
+        "name": "Programmierung von Mikrocontrollern"
+    },
+    {
+        "id": "55",
+        "name": "Projektmanagement"
+    },
+    {
+        "id": "56",
+        "name": "Prozessmanagement"
+    },
+    {
+        "id": "57",
+        "name": "Psychologie"
+    },
+    {
+        "id": "58",
+        "name": "Rhino 6"
+    },
+    {
+        "id": "59",
+        "name": "Robotik"
+    },
+    {
+        "id": "60",
+        "name": "Search Engine Optimierung"
+    },
+    {
+        "id": "61",
+        "name": "Server Administration (Linux)"
+    },
+    {
+        "id": "62",
+        "name": "Social Media Presence"
+    },
+    {
+        "id": "63",
+        "name": "Softwarearchitektur"
+    },
+    {
+        "id": "64",
+        "name": "Spanisch"
+    },
+    {
+        "id": "65",
+        "name": "Strategie"
+    },
+    {
+        "id": "66",
+        "name": "Systemmodellierung"
+    },
+    {
+        "id": "67",
+        "name": "TV"
+    },
+    {
+        "id": "68",
+        "name": "Teamplayer"
+    },
+    {
+        "id": "69",
+        "name": "Theater"
+    },
+    {
+        "id": "70",
+        "name": "Verarbeitung von Werkstoffen"
+    },
+    {
+        "id": "71",
+        "name": "Web-Entwicklung"
+    },
+    {
+        "id": "72",
+        "name": "Werbung"
+    },
+    {
+        "id": "73",
+        "name": "Wirtschaftsrecht"
+    },
+    {
+        "id": "74",
+        "name": "Yoga"
+    },
+    {
+        "id": "75",
+        "name": "Zeichnen"
+    },
+    {
+        "id": "76",
+        "name": "Zeichenprogramme"
+    }
+
+]

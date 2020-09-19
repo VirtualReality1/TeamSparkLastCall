@@ -1,0 +1,32 @@
+# .travis.yml
+dist: xenial
+
+language: php
+
+php:
+  - 7.3
+
+services:
+  - mysql
+
+cache:
+  directories:
+    - node_modules
+    - vendor
+
+before_script:
+  - cp .env.travis .env
+  - sudo mysql -e 'CREATE DATABASE testing;'
+  - composer self-update
+  - composer install --no-interaction
+  - php artisan migrate --no-interaction -vvv
+
+script:
+  - vendor/bin/phpunit --coverage-clover=coverage.xml
+
+after_success:
+    - bash <(curl -s https://codecov.io/bash) -t e521a900-0a0d-4c44-81e1-cc33d9727b74
+
+notifications:
+  email:
+    - dev@team-spark.com

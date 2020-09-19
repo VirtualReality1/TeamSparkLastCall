@@ -1,0 +1,294 @@
+[
+    {
+        "id": "1",
+        "name": "3D Druck"
+    },
+    {
+        "id": "2",
+        "name": "3D Scan"
+    },
+    {
+        "id": "3",
+        "name": "Adobe Photoshop"
+    },
+    {
+        "id": "4",
+        "name": "Adobe Suite"
+    },
+    {
+        "id": "5",
+        "name": "Algebra"
+    },
+    {
+        "id": "6",
+        "name": "Analysis"
+    },
+    {
+        "id": "7",
+        "name": "Architektur"
+    },
+    {
+        "id": "8",
+        "name": "Backen"
+    },
+    {
+        "id": "9",
+        "name": "Basteln"
+    },
+    {
+        "id": "10",
+        "name": "Bootstrap"
+    },
+    {
+        "id": "11",
+        "name": "Buchführung"
+    },
+    {
+        "id": "12",
+        "name": "Business English"
+    },
+    {
+        "id": "13",
+        "name": "C#"
+    },
+    {
+        "id": "14",
+        "name": "C+"
+    },
+    {
+        "id": "15",
+        "name": "C++"
+    },
+    {
+        "id": "16",
+        "name": "CSS"
+    },
+    {
+        "id": "17",
+        "name": "Collage"
+    },
+    {
+        "id": "18",
+        "name": "Controlling"
+    },
+    {
+        "id": "19",
+        "name": "Data Analysis"
+    },
+    {
+        "id": "20",
+        "name": "Datenbanken"
+    },
+    {
+        "id": "21",
+        "name": "Design"
+    },
+    {
+        "id": "22",
+        "name": "Druck"
+    },
+    {
+        "id": "23",
+        "name": "Drucken"
+    },
+    {
+        "id": "24",
+        "name": "English"
+    },
+    {
+        "id": "25",
+        "name": "Ethik"
+    },
+    {
+        "id": "26",
+        "name": "Fotografie"
+    },
+    {
+        "id": "27",
+        "name": "Fusion 360"
+    },
+    {
+        "id": "28",
+        "name": "Game Maker Language"
+    },
+    {
+        "id": "29",
+        "name": "Gestaltung"
+    },
+    {
+        "id": "30",
+        "name": "HTML"
+    },
+    {
+        "id": "31",
+        "name": "Handgemacht"
+    },
+    {
+        "id": "32",
+        "name": "Human Ressources Management"
+    },
+    {
+        "id": "33",
+        "name": "Illustration"
+    },
+    {
+        "id": "34",
+        "name": "Java"
+    },
+    {
+        "id": "35",
+        "name": "JavaScript"
+    },
+    {
+        "id": "36",
+        "name": "Jura"
+    },
+    {
+        "id": "37",
+        "name": "Kochen"
+    },
+    {
+        "id": "38",
+        "name": "Konzeption"
+    },
+    {
+        "id": "39",
+        "name": "Kotlin"
+    },
+    {
+        "id": "40",
+        "name": "Kreativität"
+    },
+    {
+        "id": "41",
+        "name": "Lasercutting"
+    },
+    {
+        "id": "42",
+        "name": "Linux"
+    },
+    {
+    "id": "43",
+    "name": "Makroökonomie"
+    },
+    {
+    "id": "44",
+    "name": "Malerei"
+    },
+    {
+        "id": "45",
+        "name": "Marketing"
+    },
+    {
+        "id": "46",
+        "name": "Microsoft Access"
+    },
+    {
+        "id": "47",
+        "name": "Microsoft Excel"
+    },
+    {
+        "id": "48",
+        "name": "Mikroökonomie"
+    },
+    {
+        "id": "49",
+        "name": "Nachhaltigkeit"
+    },
+    {
+        "id": "50",
+        "name": "PHP"
+    },
+    {
+        "id": "51",
+        "name": "Platinenbestückung"
+    },
+    {
+        "id": "52",
+        "name": "Programmierung von Mikrocontrollern"
+    },
+    {
+        "id": "53",
+        "name": "Projektmanagement"
+    },
+    {
+        "id": "54",
+        "name": "Prozessmanagement"
+    },
+    {
+        "id": "55",
+        "name": "Python"
+    },
+    {
+        "id": "56",
+        "name": "Raspberry Pi"
+    },
+    {
+        "id": "57",
+        "name": "React.js"
+    },
+    {
+        "id": "58",
+        "name": "Recycling"
+    },
+    {
+        "id": "59",
+        "name": "Rhino 6"
+    },
+    {
+        "id": "60",
+        "name": "Ruby"
+    },
+    {
+        "id": "61",
+        "name": "SAP"
+    },
+    {
+        "id": "62",
+        "name": "Search Engine Optimierung"
+    },
+    {
+        "id": "63",
+        "name": "Server Administration (Linux)"
+    },
+    {
+        "id": "64",
+        "name": "Sounddesign"
+    },
+    {
+        "id": "65",
+        "name": "Spanisch"
+    },
+    {
+        "id": "66",
+        "name": "Statistik"
+    },
+    {
+        "id": "67",
+        "name": "Strategie"
+    },
+    {
+        "id": "68",
+        "name": "Swift"
+    },
+    {
+        "id": "69",
+        "name": "Text"
+    },
+    {
+        "id": "70",
+        "name": "Typographie"
+    },
+    {
+        "id": "71",
+        "name": "Webdesign"
+    },
+    {
+        "id": "72",
+        "name": "Wirtschaftsrecht"
+    },
+    {
+        "id": "73",
+        "name": "XML"
+    }
+]
